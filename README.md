@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Ilya Berexutskiy
+### Hi there 👋. My name is Ilya Berezutskiy
 Привет, меня зовут Илья Березуцкий
 
 - 🔭 I’m currently working as electronic equipment engineer. Сейчас я работаю инженером по радиоэлектронному оборудованию.
