@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning data science. Сейчас я обучаюсь в сфере науки о данных. Заинтересован в работе.
 - 📫 How to reach me: berezel@gmail.com
 - 📣 How to reach me: t.me/nedokormysh
-- [PORTFOLIO](https://github.com/nedokormysh/Stepik_Competitive_DS)
+- [PORTFOLIO](https://github.com/nedokormysh/PORTFOLIO)
   
