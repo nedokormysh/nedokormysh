@@ -10,7 +10,7 @@
 - 💾 [PORTFOLIO](https://github.com/nedokormysh/PORTFOLIO)
 - 🔥 My skills
   
--- Python, pandas, NumPy, scikit-Learn,
+-- Python, R, pandas, NumPy, scikit-Learn,
 
 -- XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch,
 
