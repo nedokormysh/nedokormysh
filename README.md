@@ -8,6 +8,14 @@
 <a href="mailto:berezel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/nedokormysh"><img src="https://img.shields.io/badge/Telegram-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
 - 💾 [PORTFOLIO](https://github.com/nedokormysh/PORTFOLIO)
+- 🔥 My skills
+Python, pandas, NumPy, scikit-Learn,
+XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch
+NLP, Computer Vision, 
+Streamlit, Matplotlib, Plotly,
+Seaborn, SQL, Git, PyCharm, Jupyter, Colab
+BeautifulSoup, XPath
+Linux, Docker, Amazon Web Services (AWS)
 - :chart_with_upwards_trend: Some GitHub statistic:
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedokormysh&theme=default)
