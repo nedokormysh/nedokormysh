@@ -10,15 +10,8 @@
 - 💾 [PORTFOLIO](https://github.com/nedokormysh/PORTFOLIO)
 - 🔥 My skills
   
--- Python, R, pandas, NumPy, scikit-Learn,
+Python, R, pandas, NumPy, scikit-Learn, XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch, NLP, Computer Vision, Streamlit, Matplotlib, Plotly, Seaborn, SQL, Git, PyCharm, BeautifulSoup, Linux, Docker
 
--- XGBoost, CatBoost, LightGBM, TensorFlow, Keras, PyTorch,
-
--- NLP, Computer Vision, Streamlit, Matplotlib, Plotly,
-
--- Seaborn, SQL, Git, PyCharm, Jupyter, Colab, 
-
--- BeautifulSoup, Linux, Docker
 - :chart_with_upwards_trend: Some GitHub statistic:
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedokormysh&theme=default)
