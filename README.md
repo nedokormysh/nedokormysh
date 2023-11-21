@@ -17,5 +17,5 @@ Python, R, pandas, NumPy, scikit-Learn, XGBoost, CatBoost, LightGBM, TensorFlow,
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedokormysh&theme=default)
 
-  ![](https://komarev.com/ghpvc/?username=nedokormysh)
+  
   
