@@ -16,5 +16,6 @@ Python, R, pandas, NumPy, scikit-Learn, XGBoost, CatBoost, LightGBM, TensorFlow,
 - :chart_with_upwards_trend: Some GitHub statistic:
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nedokormysh&theme=default)
-  
+
+  ![](https://komarev.com/ghpvc/?username=nedokormysh)
   
